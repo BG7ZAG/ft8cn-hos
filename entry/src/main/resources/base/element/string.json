@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "主包"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "ft8cn鸿蒙版"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ft8cn"
+    }
+  ]
+}
